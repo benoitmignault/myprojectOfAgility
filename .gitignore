@@ -1,0 +1,18 @@
+*.class
+fileTxtByStudent/*.txt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+build
+dist/README.TXT
+# https://stackoverflow.com/questions/6504928/should-i-put-nbproject-directory-under-source-control-in-netbeans/6505938
+nbproject/private
+# artefact d'execution pour le correcteur a ignorer
+UQBC.jar
+/dist/

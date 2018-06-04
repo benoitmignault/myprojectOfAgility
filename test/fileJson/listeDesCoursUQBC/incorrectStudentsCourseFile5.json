@@ -1,0 +1,12 @@
+{
+    "commentaire":"Liste etudiants cours BIO1012 Biologie animale - UQBC - Session H2018 - Groupe 10",
+    "donnees":
+    [
+        {"code_permanent":"MAR080996","nom":"Martel","prenom":"Ève"},
+        {"code_permanent":"BEA310797","nom":"Beauregard","prenom":"Emma"},
+        {"code_permanent":"DUT060897","nom":"Dutil","prenom":"emile"},
+        {"code_permanent":"BER300498","nom":"Bernier","prenom":"Renaud"},
+        {"code_permanent":"VEI130499","nom":"Veilleux","prenom":"Gabrielle"},
+        {"code_permanent":"","nom":"Ross","prenom":"Geneviève"}
+    ]
+}

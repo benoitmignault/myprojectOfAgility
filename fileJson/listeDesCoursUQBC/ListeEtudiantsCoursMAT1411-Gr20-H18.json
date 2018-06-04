@@ -1,0 +1,14 @@
+{
+    "commentaire":"Liste etudiants cours MAT1411 Calcul differentiel - UQBC - Session H2018 - Groupe 10",
+    "donnees":
+    [
+        {"code_permanent":"RAN150898","nom":"Rancourt","prenom":"Eugène"},
+        {"code_permanent":"LAL101098","nom":"Lalonde","prenom":"Blanche"},
+        {"code_permanent":"BED121098","nom":"Bedard","prenom":"Antoine"},
+        {"code_permanent":"ROY020397","nom":"Royer","prenom":"Jean-Christophe"},
+        {"code_permanent":"FRE290299","nom":"Frechette","prenom":"Nathan"},
+        {"code_permanent":"PIN121294","nom":"Pineault","prenom":"Stephanie"},
+        {"code_permanent":"BOU090698","nom":"Bouchard","prenom":"Gisèle"},
+        {"code_permanent":"BOU010295","nom":"Bouchard","prenom":"Gilles"}
+    ]
+}

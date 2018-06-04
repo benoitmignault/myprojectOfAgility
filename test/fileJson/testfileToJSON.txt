@@ -1,0 +1,6 @@
+{
+    "nombreEntier" : 456,
+    "chainDeCaractere" : "pauvre ti bébé",
+    "objet" : { "propriete" : "oui"},
+    "liste" : [1,2,3]
+}
